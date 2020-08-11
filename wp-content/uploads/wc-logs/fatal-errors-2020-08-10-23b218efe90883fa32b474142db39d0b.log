@@ -1,0 +1,11 @@
+2020-08-10T10:11:39+00:00 CRITICAL Uncaught Error: Class 'WC_POS_APIv2_Customers' not found in /home/veedolapp/public_html/wp-content/plugins/woocommerce-pos/includes/class-wc-pos-apiv2.php:127
+Stack trace:
+#0 /home/veedolapp/public_html/wp-includes/class-wp-hook.php(287): WC_POS_APIv2->rest_request_before_callbacks(NULL, Array, Object(WP_REST_Request))
+#1 /home/veedolapp/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters(NULL, Array)
+#2 /home/veedolapp/public_html/wp-includes/rest-api/class-wp-rest-server.php(976): apply_filters('rest_request_be...', NULL, Array, Object(WP_REST_Request))
+#3 /home/veedolapp/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#4 /home/veedolapp/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/wc/v3/customer...')
+#5 /home/veedolapp/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#6 /home/veedolapp/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 /h in /home/veedolapp/public_html/wp-content/plugins/woocommerce-pos/includes/class-wc-pos-apiv2.php on line 127
+

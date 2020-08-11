@@ -1,0 +1,35 @@
+2020-07-21T04:13:22+00:00 CRITICAL Uncaught Error: Call to undefined method PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff::isShortTernary() in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php:125
+Stack trace:
+#0 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php(576): PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff->process(Object(PHP_CodeSniffer_File), 304)
+#1 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1894): PHP_CodeSniffer_File->start(NULL)
+#2 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1772): PHP_CodeSniffer->_processFile('/home/veedolapp...', NULL)
+#3 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizl in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php on line 125
+
+2020-07-21T04:14:22+00:00 CRITICAL Uncaught Error: Call to undefined method PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff::isShortTernary() in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php:125
+Stack trace:
+#0 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php(576): PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff->process(Object(PHP_CodeSniffer_File), 304)
+#1 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1894): PHP_CodeSniffer_File->start(NULL)
+#2 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1772): PHP_CodeSniffer->_processFile('/home/veedolapp...', NULL)
+#3 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizl in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php on line 125
+
+2020-07-21T05:31:32+00:00 CRITICAL Uncaught Error: Call to undefined method PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff::isShortTernary() in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php:125
+Stack trace:
+#0 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php(576): PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff->process(Object(PHP_CodeSniffer_File), 864)
+#1 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1894): PHP_CodeSniffer_File->start(NULL)
+#2 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1772): PHP_CodeSniffer->_processFile('/home/veedolapp...', NULL)
+#3 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizl in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php on line 125
+
+2020-07-21T05:36:46+00:00 CRITICAL Uncaught Error: Call to undefined method PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff::isShortTernary() in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php:125
+Stack trace:
+#0 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php(576): PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff->process(Object(PHP_CodeSniffer_File), 2261)
+#1 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1894): PHP_CodeSniffer_File->start(NULL)
+#2 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1772): PHP_CodeSniffer->_processFile('/home/veedolapp...', NULL)
+#3 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squiz in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php on line 125
+
+2020-07-21T06:55:12+00:00 CRITICAL Uncaught Error: Call to undefined method PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff::isShortTernary() in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php:125
+Stack trace:
+#0 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php(576): PHPCompatibility\Sniffs\Operators\RemovedTernaryAssociativitySniff->process(Object(PHP_CodeSniffer_File), 862)
+#1 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1894): PHP_CodeSniffer_File->start(NULL)
+#2 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php(1772): PHP_CodeSniffer->_processFile('/home/veedolapp...', NULL)
+#3 /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizl in /home/veedolapp/public_html/wp-content/plugins/php-compatibility-checker/vendor/phpcompatibility/php-compatibility/PHPCompatibility/Sniffs/Operators/RemovedTernaryAssociativitySniff.php on line 125
+
